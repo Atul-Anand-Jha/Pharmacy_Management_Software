@@ -22,7 +22,7 @@ An **Oledb** Database is built using **Microsoft Access DB** and maintained in *
                         
 4.) **Current_transaction** : temporary store details for current transaction.
 
-# Screenshots (FUnctionalities):
+# Screenshots (Functionalities):
 
 >> --->--->---> Screenshots stored in **/Screenshot/** folder.
 
